@@ -1,0 +1,4 @@
+src/config.json
+src/config.json.example
+**/*.test.js
+**/*.css
