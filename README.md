@@ -14,7 +14,7 @@ $ yarn install
 $ node index.js
 
 # copy .config.json in client (assume you are in root directory)
-$ cp .config.json.example .config.json
+$ cp src/config.json.example src/config.json
 
 # run client
 $ yarn start
